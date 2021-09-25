@@ -1,5 +1,12 @@
 html {
   font-family: 'Source Sans Pro', sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-image: url(assets/motherboard-wallpaper.jpg);
+  background-attachment: fixed;
 }
 
 .text-align-center {
